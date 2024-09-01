@@ -1,4 +1,4 @@
-// src/app/store.ts
+// src/store.ts
 import { configureStore } from '@reduxjs/toolkit';
 import todosReducer from './features/todos/todosSlice';
 
